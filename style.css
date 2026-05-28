@@ -61,3 +61,7 @@ p{
   text-align: center
 }
     
+iframe {
+  display: block;
+  margin: 20px auto;
+}
